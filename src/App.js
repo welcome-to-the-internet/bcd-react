@@ -123,7 +123,7 @@ function App() {
       <Grid gridTemplate={template}>
       <Grid.Item gridArea="head">
       <Box backgroundColor="brand" padding="xLarge">
-        <H0 color="primary">BigCom.Dev</H0>
+        <H0 color="primary">Big Community.Dev</H0>
       </Box>
       <H1>Apps</H1>
       </Grid.Item>
@@ -147,7 +147,7 @@ function App() {
             </a>
             <br></br>
             <div class="github">
-              <a href="https://github.com/bigcommerce/bigcommerce-for-wordpress">
+              <a href="https://github.com/bigcommerce/cornerstone">
                 <GitHub_Logo /> <Small>Cornerstone</Small>
               </a>
             </div>
