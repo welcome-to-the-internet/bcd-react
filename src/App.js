@@ -154,6 +154,20 @@ function App() {
           
         </div>
         </Grid.Item>
+        <div class="block">
+        <Grid.Item>
+            <a href="https://shop.orphic.xyz">
+              <br></br>
+              Orphic Mod (Cornerstone Bold 5.0.0)
+            </a>
+            <br></br>
+            <div class="github">
+              <a href="https://github.com/orphic-inc/cornerstone-orphic-mod">
+                <GitHub_Logo /> <Small>Cornerstone (Orphic Mod)</Small>
+              </a>
+            </div>
+        </Grid.Item>
+        </div>
         </Grid>
         <H3>Headless Storefronts</H3>
         <Grid gridColumns="repeat(3,1fr)">
@@ -219,7 +233,7 @@ function App() {
 
       <ApolloProvider client={client}>
         <div>
-          <h2>My first Apollo app 🚀</h2>
+          <h2>OI</h2>
         </div>
       </ApolloProvider>
     </div>
